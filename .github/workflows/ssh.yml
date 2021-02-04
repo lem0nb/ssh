@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: SSH connection to Actions
-      uses: P3TERX/debugger-action@master
+      uses: lem0nb/P3TERX-debugger-action@master
