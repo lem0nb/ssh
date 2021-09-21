@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "source": "test.js",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  }
+}
